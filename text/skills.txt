@@ -1,0 +1,24 @@
+<span class="line1">pahul@panesar</span>:<span class="line2">~/skills</span><span class="line3">$</span> cd skills
+<span class="line1">pahul@panesar</span>:<span class="line2">~/skills</span><span class="line3">$</span> ls
+operating_systems.txt
+programming_languages.txt
+frameworks.txt
+miscellanious.txt
+<a id="home" onclick="Typer2.append('<span class=&quot;line1&quot;>pahul@panesar</span>:<span class=&quot;line2&quot;>~/skills</span><span class=&quot;line3&quot;>$</span> cd ./')">./</a>
+<a id="back" onclick="Typer2.append('<span class=&quot;line1&quot;>pahul@panesar</span>:<span class=&quot;line2&quot;>~/skills</span><span class=&quot;line3&quot;>$</span> cd ../')">../</a>
+<span class="line1">pahul@panesar</span>:<span class="line2">~/skills</span><span class="line3">$</span> cat operating_systems.txt
+>
+> Windows, Mac OSX, GNU/Linux
+>
+<span class="line1">pahul@panesar</span>:<span class="line2">~/skills</span><span class="line3">$</span> cat programming_languages.txt
+>
+> Java, Javascript, Typescript, NodeJS, Python, C/C++, C#, HTMl, CSS
+>
+<span class="line1">pahul@panesar</span>:<span class="line2">~/skills</span><span class="line3">$</span> cat frameworks.txt
+>
+> Angular 2/4, Bootstrap, Flask, Ionic 2
+>
+<span class="line1">pahul@panesar</span>:<span class="line2">~/skills</span><span class="line3">$</span> cat miscellanious.txt
+>
+> Git, MongoDB, SQL, Unity, Blender 3D, Adobe Creative Suite, OpenCV, PyGame, JIRA, Postman, TensorFlow, Keras
+>

@@ -1,0 +1,17 @@
+<span class="line1">pahul@panesar</span>:<span class="line2">~</span><span class="line3">$</span> cd menu
+<span class="line1">pahul@panesar</span>:<span class="line2">~</span><span class="line3">$</span> ls
+<a id="skills" onclick="Typer2.append('<span class=&quot;line1&quot;>pahul@panesar</span>:<span class=&quot;line2&quot;>~</span><span class=&quot;line3&quot;>$</span> cd skills/')">skills/</a>
+<a id="projects" onclick="Typer2.append('<span class=&quot;line1&quot;>pahul@panesar</span>:<span class=&quot;line2&quot;>~</span><span class=&quot;line3&quot;>$</span> cd projects/')">projects/</a>
+<a id="contact" onclick="Typer2.append('<span class=&quot;line1&quot;>pahul@panesar</span>:<span class=&quot;line2&quot;>~</span><span class=&quot;line3&quot;>$</span> cd contact/')">contact/</a>
+hi.txt
+pahulpanesar.txt
+<span class="line1">pahul@panesar</span>:<span class="line2">~</span><span class="line3">$</span> cat hi.txt
+>
+> Hello World!
+>
+> I'm Pahul
+<span class="line1">pahul@panesar</span>:<span class="line2">~</span><span class="line3">$</span> cat pahulpanesar.txt
+>
+> I'm a
+> <span class="typer" data-delay="50" data-words="student at the University of British Columbia,computer science major,photography hobbyist,coffee connoisseur,hip-hop intellectual,developing fitness guru,meditation junkie,lover of urban exploration,minimalist,resident of Vancouver,nightmare on the basketball court, Houston Rocket" data-colors="white"></span>
+ <script type="text/javascript" src="/js/typerclass.js"></script>

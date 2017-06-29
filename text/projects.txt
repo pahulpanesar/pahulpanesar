@@ -1,0 +1,10 @@
+<span class="line1">pahul@panesar</span>:<span class="line2">~/projects</span><span class="line3">$</span> cd projects
+<span class="line1">pahul@panesar</span>:<span class="line2">~/projects</span><span class="line3">$</span> ls
+<a id="ai" onclick="Typer2.append('</br><span class=&quot;line1&quot;>pahul@panesar</span>:<span class=&quot;line2&quot;>~/projects</span><span class=&quot;line3&quot;>$</span> cd ai_projecté')">ai_project/</a>
+<a id="ds" onclick="Typer2.append('</br><span class=&quot;line1&quot;>pahul@panesar</span>:<span class=&quot;line2&quot;>~/projects</span><span class=&quot;line3&quot;>$</span> cd ds_emulator/')">ds_emulator/</a>
+<a id="py" onclick="Typer2.append('</br><span class=&quot;line1&quot;>pahul@panesar</span>:<span class=&quot;line2&quot;>~/projects</span><span class=&quot;line3&quot;>$</span> cd python_blog/')">python_blog/</a>
+<a id="ang" onclick="Typer2.append('</br><span class=&quot;line1&quot;>pahul@panesar</span>:<span class=&quot;line2&quot;>~/projects</span><span class=&quot;line3&quot;>$</span> cd angular4_messenger/')">angular4_messenger/</a>
+<a id="vr" onclick="Typer2.append('</br><span class=&quot;line1&quot;>pahul@panesar</span>:<span class=&quot;line2&quot;>~/projects</span><span class=&quot;line3&quot;>$</span> cd vr_game/')">vr_game/</a>
+<a id="mtg" onclick="Typer2.append('</br><span class=&quot;line1&quot;>pahul@panesar</span>:<span class=&quot;line2&quot;>~/projects</span><span class=&quot;line3&quot;>$</span> cd mind_the_gap/')">mind_the_gap/</a>
+<a id="home" onclick="Typer2.append('</br><span class=&quot;line1&quot;>pahul@panesar</span>:<span class=&quot;line2&quot;>~/projects</span><span class=&quot;line3&quot;>$</span> cd ./')">./</a>
+<a id="back" onclick="Typer2.append('</br><span class=&quot;line1&quot;>pahul@panesar</span>:<span class=&quot;line2&quot;>~/projects</span><span class=&quot;line3&quot;>$</span> cd ../')">../</a>
