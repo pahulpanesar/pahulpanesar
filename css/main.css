@@ -6,13 +6,13 @@ body {
 }
 
 a {
-    color: #0000dd;
+    color: #0033FF;
     cursor: auto;
     text-decoration: none;
 }
 
 a:hover {
-    color: #0000aa;
+    color: #0033aa;
     text-decoration: underline;
 }
 
@@ -72,8 +72,8 @@ span {
   background-color: #151515;
   color: #ffffff;
   box-sizing: border-box;
-  width: 90%;
-  height: 90%;
+  min-width: 90%;
+  min-height: 90%;
   margin: 0 auto;
   margin-bottom: 5%;
   padding: 20px;
