@@ -13,5 +13,5 @@ pahulpanesar.txt
 <span class="line1">pahul@panesar</span>:<span class="line2">~</span><span class="line3">$</span> cat pahulpanesar.txt
 >
 > I'm a
-> <span class="typer" data-delay="50" data-words="student at the University of British Columbia,computer science major,photography hobbyist,coffee connoisseur,hip-hop intellectual,developing fitness guru,meditation junkie,lover of urban exploration,minimalist,resident of Vancouver,nightmare on the basketball court, anime enthusiast, Houston Rocket" data-colors="white"></span>
+> <span class="typer" data-delay="50" data-words="developer, student at the University of British Columbia,computer science major,photography hobbyist,coffee connoisseur,hip-hop intellectual,developing fitness guru,meditation junkie,lover of urban exploration,minimalist,resident of Vancouver,nightmare on the basketball court, Houston Rocket, creator of things" data-colors="white"></span>
  <script type="text/javascript" src="/js/typerclass.js"></script>
