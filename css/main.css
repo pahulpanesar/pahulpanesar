@@ -68,7 +68,6 @@ span {
   height: 25px;
   background-color: #bbb;
   margin: 0 auto;
-  margin-top: 2%;
   border-top-right-radius: 5px;
   border-top-left-radius: 5px;
 }
@@ -80,7 +79,7 @@ span {
   width: 90%;
   min-height: 90%;
   margin: 0 auto;
-  margin-bottom: 5%;
+  margin-bottom: 1%;
   padding: 10px;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
