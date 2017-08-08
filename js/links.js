@@ -27,7 +27,7 @@ switch (document.title) {
     document.getElementById('instagram').href = "https://www.instagram.com/picturesbypahul/";
     document.getElementById('linkedin').href = "https://www.linkedin.com/in/pahul-panesar-830781123/";
     document.getElementById('email').href = "mailto:pahulpn@gmail.com";
-    document.getElementById('resume').href = "/../resume.pdf";
+    document.getElementById('resume').href = "/../resumeMain.pdf";
     break;
   default:
   console.error("links.js : error");
