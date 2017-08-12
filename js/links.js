@@ -14,9 +14,9 @@ switch (document.title) {
     document.getElementById('back').href = "/../index.html";
     document.getElementById('ai').href = "https://github.com/TinySamosas/EndlessBlock";
     document.getElementById('ds').href = "/../index.html";
-    document.getElementById('py').href = "/../index.html";
+    document.getElementById('py').href = "round-runner-15600.appspot.com";
     document.getElementById('ang').href = "https://github.com/pahulpanesar/millenial-messenger";
-    document.getElementById('vr').href = "/../index.html";
+    document.getElementById('vr').href = "https://github.com/pahulpanesar/shark-marine";
     document.getElementById('mtg').href = "/../index.html";
 
     break;
