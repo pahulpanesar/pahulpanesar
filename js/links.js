@@ -25,9 +25,9 @@ switch (document.title) {
     document.getElementById('back').href = "/../index.html";
     document.getElementById('github').href = "http://www.github.com/pahulpanesar";
     document.getElementById('instagram').href = "https://www.instagram.com/picturesbypahul/";
-    document.getElementById('linkedin').href = "https://www.linkedin.com/in/pahul-panesar-830781123/";
+    document.getElementById('linkedin').href = "https://www.linkedin.com/in/pahul-panesar/";
     document.getElementById('email').href = "mailto:pahulpn@gmail.com";
-    document.getElementById('resume').href = "/../resumeMain.pdf";
+    document.getElementById('resume').href = "/../resume.pdf";
     break;
   default:
   console.error("links.js : error");
